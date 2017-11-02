@@ -3,6 +3,6 @@
   display: none;
 }
 
-ul#wall li.tag-2 {
+#wall > tag-2 {
   display: none;
 ]
